@@ -56,21 +56,21 @@ You can explore them interactively (`.twbx`) or view a static version (`.pdf`).
 
 - Integrate **cast/actors** for deeper insight
 - Include **release year trends**
-- 
 
 ---
 
 ##  Author
 
-**Subrat Shatapathy**  
- [gajendra.shatapathy22@example.com]  
- [LinkedIn](https://www.linkedin.com/in/Subrat-Shatapathy)  
- [GitHub](https://github.com/subrat212004)
+**Avinash**  
+ [avinashaadigaur@gmail.com]  
+ [LinkedIn](www.linkedin.com/in/avinash-aadigaur-39a183333)  
+ [GitHub](https://github.com/Avinash202droid)
 
 ---
 
 ##  Tags
 
 `#DataAnalysis` `#Python` `#Tableau` `#IMDb` `#EDA` `#DataVisualization` `#MovieAnalytics`
+
 
 
