@@ -63,7 +63,7 @@ You can explore them interactively (`.twbx`) or view a static version (`.pdf`).
 
 **Avinash**  
  [avinashaadigaur@gmail.com]  
- [LinkedIn](www.linkedin.com/in/avinash-aadigaur-39a183333)  
+ [LinkedIn](https://www.linkedin.com/in/avinash-aadigaur-39a183333/)  
  [GitHub](https://github.com/Avinash202droid)
 
 ---
@@ -71,6 +71,7 @@ You can explore them interactively (`.twbx`) or view a static version (`.pdf`).
 ##  Tags
 
 `#DataAnalysis` `#Python` `#Tableau` `#IMDb` `#EDA` `#DataVisualization` `#MovieAnalytics`
+
 
 
 
